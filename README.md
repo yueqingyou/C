@@ -1,2 +1,2 @@
 # C
-Personal Exercise
+Personally Exercise
